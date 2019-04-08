@@ -63,6 +63,9 @@ public class MyScript : MonoBehaviour
             case "Pommel Counter":
                 instance.Cooldown = 30f;
                 break;
+            case "Simeon's Gambit":
+                instance.Cooldown = 30f;
+                break;
         }
 
 
